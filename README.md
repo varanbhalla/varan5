@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @varan5
-- 👀 I’m interested in Full Stack Software Development
-- 🌱 I’m currently persuing graduation from Univerity of Pune
-- 💞️ I’m looking to collaborate on Full Stack Projects
-- 📫 Linkedin: Varandeep Bhalla
+- 👋 Hi, I’m varan
+- 🌱 I’m persuing graduation from Univerity of Pune
+- 👀 I’m interested in Full-Stack Software Development
+- 📫 Email: varan.bhalla@gmail.com
