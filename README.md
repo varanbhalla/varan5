@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Varan
-- 🌱 I’m persuing graduation from University of Pune
-- 👀 I’m interested in Full-Stack Software Development
+- 🌱 Persuing graduation from University of Pune
+- 👀 Interested in Full-Stack Software Development, ML/AI
 - 📫 Email: varan.bhalla@gmail.com
