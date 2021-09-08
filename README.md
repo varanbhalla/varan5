@@ -1,9 +1,13 @@
-<h1 align="center">Hi 👋, I'm Varandeep Bhalla</h1>
-- 👨‍💻 Portfolio website https://varan5.github.io
+<h1 align="center">Hi 👋, I'm Varan</h1>
+
+- 👨‍💻 Portfolio website **https://varan5.github.io**
 
 - 📫 How to reach me **varan.bhalla@gmail.com**
 
+- 🏫 **University of Pune**
+
 - ⚡ Fun fact **I write descriptive variable names**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
