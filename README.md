@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varan</h1>
 
-- 👨‍💻 Portfolio website **https://varan5.github.io**
-
 - 📫 How to reach me **varan.bhalla@gmail.com**
 
 - 🏫 **University of Pune**
