@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Varan</h1>
 
+- ⚡ Do checkout my website **https://varan.pages.dev**
+
 - 📫 How to reach me **varan.bhalla@gmail.com**
 
 - 🏫 **University of Pune**
-
-- ⚡ Fun fact **I write descriptive variable names**
 
 
 <h3 align="left">Connect with me:</h3>
