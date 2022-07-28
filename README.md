@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **varan.bhalla@gmail.com**
 
-- 🏫 **University of Pune**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
